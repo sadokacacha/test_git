@@ -23,10 +23,8 @@ def count_vowels_and_non_vowels(input_string):
             non_vowel_count += 1
 
     return vowel_count, non_vowel_count
-
 # Example usage
 user_input = input("Enter a string: ")  # Get input from the user
 vowel_count, non_vowel_count = count_vowels_and_non_vowels(user_input)  # Count vowels and non-vowels in the input string
 print(f"The number of vowels in the string is: {vowel_count}")
-print(f"The number of non-vowel letters in the string is: {non_vowel_count}")
-
+print(f"The number of non-vowel letters in the string is:aziz 5leeet  {non_vowel_count}")

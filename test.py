@@ -17,7 +17,6 @@ vowel_count = count_vowels(user_input)
 print(f"The number of vowels in the string is: {vowel_count}")
 # Function to count vowels and non-vowels in a string
 
-
 def count_vowels_and_non_vowels(input_string):
     vowels = "aeiouAEIOU"  # List of vowels (uppercase and lowercase)
     vowel_count = 0  # Initialize vowel count to 0
